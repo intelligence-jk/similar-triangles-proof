@@ -1,0 +1,10 @@
+[project]
+name = "similar-triangles-proof"
+version = "0.1.0"
+description = "Decide whether two triangles are similar (AA, SAS, SSS) and write the proof lines with exact fractions"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
