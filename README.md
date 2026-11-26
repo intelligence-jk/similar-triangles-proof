@@ -1,4 +1,6 @@
-# similar-triangles-proof
+# TRIAD: Triangle Ratios, Investigated And Derived
+
+Formerly `similar-triangles-proof`.
 
 Give two triangles, get back which similarity test applies (AA, SAS or SSS) and the proof written out line by line, with exact fractions. It can also find a missing side.
 
